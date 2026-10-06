@@ -10,6 +10,16 @@
 </p>
 
 <p align="center">
+  <a href="https://cafebazaar.ir/app/com.meysamdargin.boltin.app">
+    <img src="docs/badges/cafebazaar.svg" alt="دریافت از کافه بازار" width="180">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://cafebazaar.ir/app/com.meysamdargin.boltin.app">Download on Cafe Bazaar</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.11+-02569B?logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Dart-3.11+-0175C2?logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/Android-24%2B-3DDC84?logo=android&logoColor=white" alt="Android">
@@ -100,6 +110,9 @@ Unit tests cover JSON models, URL building, Persian formatting, HTTP services
 (with `package:http/testing.dart`), and the main feed widgets.
 
 ## Product notes
+
+Boltin is live on [Cafe Bazaar](https://cafebazaar.ir/app/com.meysamdargin.boltin.app)
+as **بولتین | نبض بازار و خبر**.
 
 Boltin is designed as a daily companion, not a newsreader. Prices come from a
 backend snapshot API. AI copy is produced server-side from selected channels
